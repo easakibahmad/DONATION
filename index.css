@@ -146,3 +146,61 @@ body {
 }
 
 /* Section Three Started */
+.sec-three {
+    width: auto;
+    height: 500px;
+    padding: 30px 40px;
+    margin-bottom: 30px;
+}
+
+.third-heading {
+    font-size: 3vh;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 2px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.third-paragraph {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 80px;
+    padding: 2px 120px;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+    margin-bottom: 30px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    margin: 0px 40px 20px 40px;
+}
+
+.card-part {
+    width: 80%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px 10px;
+    border-radius: none;
+    background-color: white;
+}
+
+.card-part img {
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.card-one {
+    background-color: tomato;
+}
+
+.card-two {
+    background-color: bisque;
+}
+
+.card-three {
+    background-color: chocolate;
+}
