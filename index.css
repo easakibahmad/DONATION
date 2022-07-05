@@ -3,6 +3,7 @@ body {
     padding: 0;
 }
 
+/* Section One Started */
 .sec-one {
     width: auto;
     height: 600px;
@@ -29,6 +30,7 @@ body {
 
 .top-paragraph {
     font-size: 20px;
+    text-align: center;
     font-family: 'Roboto Mono', monospace;
 }
 
@@ -59,3 +61,88 @@ body {
 .btn-anchor {
     text-decoration: none;
 }
+
+/* Section two Started*/
+.sec-two {
+    width: auto;
+    height: 600px;
+    padding: 30px 40px;
+}
+
+.sec-two-divtop {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.second-heading {
+    font-size: 5vh;
+    padding-top: 70px;
+    text-align: center;
+    padding-bottom: 2px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.second-paragraph {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 80px;
+    padding: 2px 120px;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+    margin-bottom: 60px;
+}
+
+.donate-amount-div {
+    display: flex;
+    justify-content: center;
+}
+
+.donate-mini-div {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #f5f5f5;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.donate-mini-div p {
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#selected-tk {
+    border: 2px solid rgb(240, 16, 16);
+    color: rgb(240, 16, 16);
+}
+
+
+.tk-form {
+    text-align: center;
+}
+
+.form-input {
+    margin: 0px 210px;
+    border-bottom: 2px solid #f5f5f5;
+}
+
+.form-input input {
+    border: none;
+    padding-bottom: 6px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.btn-two {
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: brown;
+    color: black;
+    margin-top: 20px;
+}
+
+/* Section Three Started */
