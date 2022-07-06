@@ -140,7 +140,7 @@ body {
     font-size: 18px;
     font-weight: bold;
     border-radius: 10px;
-    background-color: brown;
+    background-color: rgb(42, 165, 128);
     color: black;
     margin-top: 20px;
 }
@@ -204,3 +204,65 @@ body {
 .card-three {
     background-color: chocolate;
 }
+
+/* section four started */
+
+.sec-four {
+    width: auto;
+    height: 400px;
+    padding: 30px 40px;
+    margin-bottom: 30px;
+}
+
+.sec-four-top-div {
+    display: flex;
+    justify-content: center;
+    margin: 10px 40px 20px 40px;
+}
+
+.sec-four-div-left {
+    padding-left: 20px;
+    margin: 5px 30px;
+}
+
+.sec-four-div-right {
+    width: 50%;
+    padding-left: 20px;
+    margin: 5px 30px;
+}
+
+.fourth-heading {
+    font-size: 6vh;
+    padding-top: 10px;
+    padding-left: 5px;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+}
+
+.fourth-paragraph {
+    font-size: 18px;
+    text-align: left;
+    margin-left: 10px;
+    padding: 2px 2px;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+.btn-three {
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(138, 45, 219);
+    color: white;
+    margin-top: 20px;
+}
+
+.sec-four-div-right img {
+    height: 400px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+/* section five started */
